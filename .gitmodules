@@ -1,0 +1,3 @@
+[submodule "mern-chat-app"]
+	path = mern-chat-app
+	url = https://github.com/ANAND1275/minorProject.git
